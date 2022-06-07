@@ -1,5 +1,5 @@
 package com.example.rikrik_10119290;
-
+// 10119290 Rikrik Herdiana IF7
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;

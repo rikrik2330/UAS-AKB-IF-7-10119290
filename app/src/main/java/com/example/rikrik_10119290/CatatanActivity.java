@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
+// 10119290 Rikrik Herdiana IF7
+
 public class CatatanActivity extends AppCompatActivity {
 
     protected Cursor cursor;

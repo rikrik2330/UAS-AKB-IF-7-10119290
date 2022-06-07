@@ -1,5 +1,5 @@
 package com.example.rikrik_10119290;
-
+// 10119290 Rikrik Herdiana IF7
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.database.Cursor;
