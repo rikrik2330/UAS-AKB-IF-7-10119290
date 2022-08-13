@@ -10,28 +10,40 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Rikrik_10119290">
         <activity
-            android:name=".TentangAplikasi"
-            android:exported="false" />
-        <activity
-            android:name=".ProfileActivity"
-            android:exported="false" />
-        <activity
-            android:name=".UpdateCatatanActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TambahCatatanActivity"
-            android:exported="false" />
-        <activity
-            android:name=".CatatanActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashScreen"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true"
+            android:label="Register" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="Login" />
+        <activity
+            android:name=".TentangAplikasi"
+            android:exported="true" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".UpdateCatatanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".TambahCatatanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CatatanActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 

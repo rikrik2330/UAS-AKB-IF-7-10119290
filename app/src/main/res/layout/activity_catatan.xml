@@ -21,7 +21,7 @@
         android:id="@+id/tvIsi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="isi disiniiiiiiiii"
+        android:hint="Isi Disiniiiii"
         android:textAlignment="center"
         android:paddingHorizontal="20dp"
         />
